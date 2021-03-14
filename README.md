@@ -1,6 +1,11 @@
 Currently in college with information engineering major and software engineering minor. 
 
-Interested in **Game Design** and **Game Tester**. 
+### Main Interest
+- Game Design 
+- Game Tester 
+
+### Portfolio
+Available at [my Itch profile](https://sun-wise-man.itch.io/).
 
 ###### Github mainly used for collaboration and code sharing.
 
