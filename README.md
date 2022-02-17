@@ -2,7 +2,7 @@ Currently in college with information engineering major and software engineering
 
 ### Main Interest
 - Game Design 
-- Game Tester 
+- Quality Assurance
 
 ### Portfolio
 Available at [my Itch profile](https://sun-wise-man.itch.io/).
