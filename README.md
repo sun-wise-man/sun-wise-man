@@ -1,8 +1,8 @@
-Currently in college with information engineering major and software engineering minor. 
+A fresh graduate with major in Information Engineering.
 
 ### Main Interest
-- Game Design 
 - Quality Assurance
+- Game Design 
 
 ### Portfolio
 Available at [my Itch profile](https://sun-wise-man.itch.io/).
