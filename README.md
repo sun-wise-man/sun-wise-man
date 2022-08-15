@@ -5,7 +5,7 @@ A fresh graduate with major in Information Engineering.
 - Game Design 
 
 ### Portfolio
-Available at [my Itch profile](https://sun-wise-man.itch.io/).
+Available at [my Notion](https://adhityowp.notion.site/Adhityo-Wicaksono-Putro-14ee6cbe367e42d8920b4e9ef8935b8c).
 
 ###### Github mainly used for collaboration and code sharing.
 
